@@ -1,0 +1,70 @@
+.header-body p,h1{
+     font-family:Poppins;
+}
+p{
+    font-size: 14px;
+}
+h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+.header-container .col img{
+    margin-top: 115px;
+}
+.btn{
+background: #E76F51;
+color: #FFFFFF;
+text-decoration: none;
+}
+.bikes-header{
+      text-align: center;
+      padding-top:50px ;
+}
+.bikes img{
+    width: 288px;
+height: 243px;
+margin-top: 110px;
+}
+h1 span{
+    color: #E76F51;
+    font-style: normal;
+ font-family:Bebas Neue;
+  font-weight: 400;
+}
+.card-image{
+    width: 140px;
+height: 149px;
+margin-left: 25%;
+margin-top: 40px;
+} 
+.card-inside{background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    box-sizing: border-box;
+    border-radius: 5px;
+padding: 40px 35px;
+margin-top: 50px;
+}
+ .card{
+     border: none;
+background-color: #FFFFFF;
+text-align: center;
+Padding:40px, 35px, 40px, 35px;
+} 
+
+.footer{
+text-align: center;
+margin-top: 15px;
+}
+.fa-star{
+    width: 22px;
+    height: 22px;
+    position: static;
+}
+.filled{
+    color: #dd8809c2;
+}
+.card-info{
+    background-color: rgb(250, 232, 250);
+    margin-top: 30px;
+    border-radius: 5px;
+}
